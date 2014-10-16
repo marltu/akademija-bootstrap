@@ -1,6 +1,11 @@
 imports:
     - php
 
+checks:
+    php:
+        code_rating: true
+        duplication: true
+
 tools:
     # PHP
     php_sim:                true
@@ -27,8 +32,3 @@ filter:
 changetracking:
     bug_patterns: ["\bfix(?:es|ed)?\b"]
     feature_patterns: ["\badd(?:s|ed)?\b", "\bimplement(?:s|ed)?\b"]
-
-checks:
-    php:
-        code_rating: true
-        duplication: true
