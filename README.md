@@ -1,3 +1,6 @@
+[![Build Status](https://scrutinizer-ci.com/g/marltu/akademija-bootstrap/badges/build.png?b=master)](https://scrutinizer-ci.com/g/marltu/akademija-bootstrap/build-status/master)
+
+
 Symfony Standard Edition
 ========================
 
