@@ -1,6 +1,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/marltu/akademija-bootstrap/badges/build.png?b=master)](https://scrutinizer-ci.com/g/marltu/akademija-bootstrap/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/marltu/akademija-bootstrap/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/marltu/akademija-bootstrap/?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/44fe9cb5-6fd3-4bd9-a97b-9b717a32bf06/mini.png)](https://insight.sensiolabs.com/projects/44fe9cb5-6fd3-4bd9-a97b-9b717a32bf06)
+[![Dependency Status](https://www.versioneye.com/user/projects/543f9341580507769d000087/badge.svg?style=flat)](https://www.versioneye.com/user/projects/543f9341580507769d000087)
 
 
 Symfony Standard Edition
